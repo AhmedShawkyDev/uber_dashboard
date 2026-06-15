@@ -1,4 +1,4 @@
-![Qimam_saudia](uber__Dashboard.png)
+![Uber](uber__Dashboard.png)
 
 🚀 Moving Beyond Pretty Dashboards: Driving Business Impact for Uber Operations!
 
